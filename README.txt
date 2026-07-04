@@ -31,7 +31,7 @@ Este diseño permite reemplazar fácilmente los adaptadores (ej. usar HTTP o Web
 
 4. Instrucciones de instalación
 1. Clonar el repositorio o copiar los archivos fuente:
-   git clone https://github.com/usuario/broker-mensajes.git
+   git clone https://github.com/jonathanbs14/Tarea4Brocken
 2. Abrir el proyecto en IntelliJ IDEA.
 3. Compilar las clases:
    javac *.java
